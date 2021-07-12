@@ -1,6 +1,5 @@
 # handwrittten_multidigits_recognition
 recognize multi handwritten digits with opencv and keras
-You can use this code to recognize handwritten digits. 
 
 Before start, you should download packages in requirement.txt.
 

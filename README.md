@@ -7,7 +7,7 @@ if you have finished downloading, then it is time to start.
 
 Firstly, RUN model.py to generate a model ( .h5 )  to recognize single digit, which has actually already generated，whose name is my_model.h5.
 
-Before fun load_image, put your image into 'test_fig' directory, and change the path of image:
+Before run load_image, put your image into 'test_fig' directory, and change the path of image:
 
 ```python
 img = cv2.imread('test_fig/no_order.png')

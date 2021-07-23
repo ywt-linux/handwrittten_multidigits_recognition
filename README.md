@@ -19,3 +19,4 @@ RUN load_image.py to load data of your test image.
 
 RUN predict.py and the predicted number will be shown on you terminal.
 
+my_model.h5 got 0.988 accuracy on kaggle
